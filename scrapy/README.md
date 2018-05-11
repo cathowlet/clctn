@@ -22,6 +22,6 @@
 
 用法：
 
-    class MongoPipeline(MongoPipline):
+    class MongoPipeline(MongoPipeline):
         pass
         
