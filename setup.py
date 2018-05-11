@@ -6,5 +6,5 @@ setup(name='clctn',
       author='cathowlet',
       author_email='cathowlet@gmail.com',
       license='MIT',
-      packages=['clctn','filter'],
+      packages=['clctn'],
       zip_safe=False)
