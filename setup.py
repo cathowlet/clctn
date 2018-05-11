@@ -6,5 +6,5 @@ setup(name='clctn',
       author='cathowlet',
       author_email='cathowlet@gmail.com',
       license='MIT',
-      packages=['clctn'],
+      packages=['clctn','scrapy'],
       zip_safe=False)
