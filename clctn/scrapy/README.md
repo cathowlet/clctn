@@ -4,7 +4,7 @@
 
 ## pipelines.py
 
-一个`scrpay` `pipelines'的模版，用于快速创建`pipeline`
+一个`scrpay` `pipelines`的模版，用于快速创建`pipeline`
 
 用法：pass
 
