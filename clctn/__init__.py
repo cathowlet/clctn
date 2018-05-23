@@ -1,1 +1,1 @@
-import scrapy
+from . import scrapy
